@@ -2,7 +2,7 @@ import path from 'path';
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: process.env.VERCEL ? '/' : (process.env.NODE_ENV === 'production' ? '/hololive-character-notifier/' : '/'),
+  base: '/',
   css: {
     postcss: './postcss.config.js'
   },
