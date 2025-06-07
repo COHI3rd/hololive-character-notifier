@@ -238,9 +238,14 @@ const App: React.FC = () => {
   };
 
   const forceTestNotification = () => {
-    console.log("Forcing test notification...");
-    console.log("Notification permission:", Notification.permission);
-    console.log("Settings:", settings.globalNotificationsOn);
+    console.log("=== テストメッセージ生成開始 ===");
+    console.log("選択キャラクター:", selectedCharData.name);
+    console.log("通知許可状態:", Notification.permission);
+    console.log("グローバル通知設定:", settings.globalNotificationsOn);
+    console.log("位置情報使用設定:", settings.useLocationForWeather);
+    console.log("特別な日:", getSpecialDayName());
+    
+    // 朝の時間として処理
     triggerNotificationAndMessage(NOTIFICATION_TIMES_CONFIG[NotificationTimeSlot.Morning].timeOfDay);
   };
 
@@ -264,6 +269,70 @@ const App: React.FC = () => {
           onReact={handleReaction}
           isLoading={isLoadingMessage}
         />
+        
+        {/* Test Message Generation Buttons */}
+        <div className="mt-6 flex flex-col items-center space-y-4">
+          <h3 className="text-lg font-semibold text-holo-secondary-text">メッセージテスト</h3>
+          <div className="flex flex-wrap justify-center gap-3">
+            <button
+              onClick={() => triggerNotificationAndMessage('朝')}
+              disabled={isLoadingMessage}
+              className={`px-4 py-2 rounded-lg font-medium transition-all duration-200 text-sm ${
+                isLoadingMessage
+                  ? 'bg-gray-300 text-gray-500 cursor-not-allowed'
+                  : 'bg-yellow-500 text-white hover:bg-yellow-600 hover:shadow-lg'
+              }`}
+            >
+              🌅 朝のメッセージ
+            </button>
+            <button
+              onClick={() => triggerNotificationAndMessage('昼')}
+              disabled={isLoadingMessage}
+              className={`px-4 py-2 rounded-lg font-medium transition-all duration-200 text-sm ${
+                isLoadingMessage
+                  ? 'bg-gray-300 text-gray-500 cursor-not-allowed'
+                  : 'bg-orange-500 text-white hover:bg-orange-600 hover:shadow-lg'
+              }`}
+            >
+              ☀️ 昼のメッセージ
+            </button>
+            <button
+              onClick={() => triggerNotificationAndMessage('夜')}
+              disabled={isLoadingMessage}
+              className={`px-4 py-2 rounded-lg font-medium transition-all duration-200 text-sm ${
+                isLoadingMessage
+                  ? 'bg-gray-300 text-gray-500 cursor-not-allowed'
+                  : 'bg-blue-600 text-white hover:bg-blue-700 hover:shadow-lg'
+              }`}
+            >
+              🌙 夜のメッセージ
+            </button>
+          </div>
+          
+                     {isLoadingMessage && (
+             <div className="flex items-center space-x-2 text-holo-secondary-text">
+               <div className="animate-spin rounded-full h-5 w-5 border-b-2 border-holo-blue"></div>
+               <span>メッセージ生成中...</span>
+             </div>
+           )}
+           
+           {/* Debug Information */}
+           <details className="mt-4 max-w-md mx-auto">
+             <summary className="cursor-pointer text-sm text-gray-600 hover:text-gray-800">
+               🔧 デバッグ情報
+             </summary>
+             <div className="mt-2 p-3 bg-gray-50 rounded-lg text-xs space-y-1">
+               <div><strong>通知許可:</strong> {Notification.permission}</div>
+               <div><strong>グローバル通知:</strong> {settings.globalNotificationsOn ? 'ON' : 'OFF'}</div>
+               <div><strong>位置情報使用:</strong> {settings.useLocationForWeather ? 'ON' : 'OFF'}</div>
+               <div><strong>選択キャラクター:</strong> {selectedCharData.name}</div>
+               <div><strong>特別な日:</strong> {getSpecialDayName() || 'なし'}</div>
+               {locationError && (
+                 <div className="text-red-600"><strong>位置情報エラー:</strong> {locationError}</div>
+               )}
+             </div>
+           </details>
+        </div>
       </main>
       <SettingsModal
         isOpen={isSettingsModalOpen}
