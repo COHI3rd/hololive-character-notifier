@@ -36,8 +36,8 @@ self.addEventListener('sync', (event) => {
 self.addEventListener('push', (event) => {
   const options = {
     body: event.data ? event.data.text() : 'New message from your Hololive character!',
-    icon: '/icons/icon-192x192.png',
-    badge: '/icons/icon-72x72.png',
+    icon: './icons/icon-192x192.png',
+    badge: './icons/icon-72x72.png',
     vibrate: [100, 50, 100],
     data: {
       dateOfArrival: Date.now(),
@@ -47,12 +47,12 @@ self.addEventListener('push', (event) => {
       {
         action: 'explore',
         title: 'Open App',
-        icon: '/icons/icon-192x192.png'
+        icon: './icons/icon-192x192.png'
       },
       {
         action: 'close',
         title: 'Close',
-        icon: '/icons/icon-192x192.png'
+        icon: './icons/icon-192x192.png'
       }
     ]
   };
@@ -79,7 +79,7 @@ async function doBackgroundNotification() {
     const registration = self.registration;
     await registration.showNotification('Background notification', {
       body: 'This is a background notification',
-      icon: '/icons/icon-192x192.png'
+      icon: './icons/icon-192x192.png'
     });
   } catch (error) {
     console.error('Background notification failed:', error);
