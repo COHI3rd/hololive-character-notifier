@@ -239,6 +239,8 @@ const App: React.FC = () => {
 
   const forceTestNotification = () => {
     console.log("Forcing test notification...");
+    console.log("Notification permission:", Notification.permission);
+    console.log("Settings:", settings.globalNotificationsOn);
     triggerNotificationAndMessage(NOTIFICATION_TIMES_CONFIG[NotificationTimeSlot.Morning].timeOfDay);
   };
 

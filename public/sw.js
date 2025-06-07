@@ -1,9 +1,9 @@
 // Service Worker for Hololive Character Notifier
 const CACHE_NAME = 'hololive-notifier-v1';
 const urlsToCache = [
-  '/',
-  '/index.html',
-  '/manifest.json',
+  './',
+  './index.html',
+  './manifest.json',
   // Add other static assets
 ];
 
