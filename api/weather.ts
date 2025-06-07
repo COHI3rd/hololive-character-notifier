@@ -1,6 +1,6 @@
 import type { VercelRequest, VercelResponse } from '@vercel/node';
 
-const OPENWEATHERMAP_API_KEY = process.env.VITE_OPENWEATHERMAP_API_KEY;
+const OPENWEATHERMAP_API_KEY = process.env.OPENWEATHERMAP_API_KEY;
 
 /**
  * Converts OpenWeatherMap main weather condition to a simplified Japanese term.
