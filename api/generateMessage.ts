@@ -8,9 +8,6 @@ if (!GEMINI_API_KEY) {
   console.warn("GEMINI_API_KEY environment variable not set. Gemini API calls will fail.");
 }
 
-const ai = new GoogleGenAI(GEMINI_API_KEY || "DISABLED_API_KEY_PLACEHOLDER");
-const modelName = 'gemini-1.5-flash';
-
 function getCurrentSeason(): string {
   const month = new Date().getMonth() + 1; // 1-12
   if (month >= 3 && month <= 5) return '春';
