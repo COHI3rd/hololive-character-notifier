@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "content": "おはよう！今日も一日、あなたのペースで頑張ってね〜",
+    "category_time": "morning",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["greeting", "morning", "encouragement"]
+  },
+  {
+    "id": 2,
+    "content": "朝だよ〜！新しい一日の始まりだね。私も一緒に頑張るから！",
+    "category_time": "morning",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["greeting", "morning", "encouragement"]
+  },
+  {
+    "id": 51,
+    "content": "お疲れ様！お昼の時間だけど、ちゃんと休憩取ってる？",
+    "category_time": "afternoon",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["care", "break", "afternoon"]
+  },
+  {
+    "id": 81,
+    "content": "お疲れ様でした！今日も一日頑張ったね〜",
+    "category_time": "evening",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["rest", "appreciation", "evening"]
+  },
+  {
+    "id": 121,
+    "content": "まだ起きてるの？体調に気をつけて、無理しないでね",
+    "category_time": "late",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["sleep", "health", "late"]
+  },
+  {
+    "id": 141,
+    "content": "月曜日だけど、無理しないでね〜。一歩ずつ進めばいいよ！",
+    "category_time": "all",
+    "category_day": "monday",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["monday", "encouragement", "weekstart"]
+  },
+  {
+    "id": 166,
+    "content": "やったね〜！金曜日だよ！週末まであと少し♪",
+    "category_time": "all",
+    "category_day": "friday",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["friday", "weekend", "celebration"]
+  },
+  {
+    "id": 191,
+    "content": "休日だ〜！今日はゆっくり過ごそうね♪",
+    "category_time": "all",
+    "category_day": "weekend",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["relax", "hobby", "weekend"]
+  },
+  {
+    "id": 221,
+    "content": "桜の季節だね〜！お花見したくなっちゃう♪",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "spring",
+    "category_special": null,
+    "tags": ["spring", "sakura", "nature"]
+  },
+  {
+    "id": 241,
+    "content": "暑い日が続くね〜！水分補給をお忘れなく！",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "summer",
+    "category_special": null,
+    "tags": ["summer", "hot", "vacation"]
+  },
+  {
+    "id": 261,
+    "content": "秋の夜長、読書でも楽しんでみない？",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "autumn",
+    "category_special": null,
+    "tags": ["autumn", "reading", "nature"]
+  },
+  {
+    "id": 281,
+    "content": "寒い日だね〜。温かいものでも飲んで暖まろ？",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "winter",
+    "category_special": null,
+    "tags": ["winter", "warm", "cozy"]
+  },
+  {
+    "id": 301,
+    "content": "今日は私の誕生日！一緒にお祝いしてくれてありがとう♪",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": "birthday",
+    "tags": ["birthday", "celebration", "gratitude"]
+  },
+  {
+    "id": 310,
+    "content": "いつもありがとう！あなたと過ごす毎日が私の宝物だよ〜",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["gratitude", "daily", "treasure"]
+  }
+] 

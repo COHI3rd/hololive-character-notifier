@@ -1,6 +1,0 @@
-{
-  "name": "Hololive Character Notifier",
-  "description": "A fan-made application that provides timely notifications and messages from your favorite Hololive characters, powered by Gemini API.",
-  "requestFramePermissions": [],
-  "prompt": ""
-}

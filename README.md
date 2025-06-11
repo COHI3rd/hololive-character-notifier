@@ -1,23 +1,112 @@
-# Run and deploy your AI Studio app
+# 友人Aと一緒♪ - ホロライブファンメイドアプリ
 
-This contains everything you need to run your app locally.
+ホロライブプロダクションの友人Aが毎日異なる温かいメッセージをお届けするモバイルアプリです。
 
-## Run Locally
+## ⚠️ 重要な注意事項
 
-**Prerequisites:** Node.js
+**本アプリは、カバー株式会社様およびホロライブプロダクションが公認したものではない、有志による二次創作（ファンメイド）アプリです。**
 
-1.  Install dependencies:
-    `npm install`
-2.  Run the app using the Vercel CLI for serverless function support:
-    `vercel dev`
+## 🌟 特徴
 
-## Deploying to Vercel
+- **毎日違うメッセージ**: 310種類の豊富なメッセージから時間・曜日・季節を考慮して最適なものを配信
+- **完全オフライン**: インターネット接続不要、プライバシー重視
+- **思い出機能**: 受け取ったメッセージを履歴として保存
+- **シンプル設計**: 直感的で使いやすいインターフェース
 
-To deploy your application, you can use Vercel.
+## 🛠 技術スタック
 
-1.  Push your code to a Git repository (GitHub, GitLab, Bitbucket).
-2.  Import your project into Vercel.
-3.  Set the following environment variables in your Vercel project settings:
-    -   `VITE_OPENWEATHERMAP_API_KEY`: Your API key for OpenWeatherMap.
-    -   `GEMINI_API_KEY`: Your API key for the Gemini API.
-4.  Vercel will automatically build and deploy your application.
+- **フレームワーク**: React Native 0.72+
+- **言語**: JavaScript/TypeScript
+- **データベース**: SQLite
+- **設定管理**: AsyncStorage
+- **通知**: react-native-push-notification
+
+## 📱 セットアップ
+
+### 前提条件
+
+- Node.js 16以上
+- React Native CLI
+- Android Studio (Android開発時)
+- Xcode (iOS開発時)
+
+### インストール
+
+```bash
+# 依存関係のインストール
+npm install
+
+# iOS用Podインストール (iOSの場合)
+cd ios && pod install && cd ..
+
+# Androidアプリの起動
+npm run android
+
+# iOSアプリの起動
+npm run ios
+```
+
+## 📁 プロジェクト構造
+
+```
+src/
+├── components/          # UIコンポーネント
+├── screens/            # 画面
+│   ├── HomeScreen.js   # ホーム画面
+│   ├── SettingsScreen.js # 設定画面
+│   └── MemoryScreen.js # 思い出画面
+├── services/           # ビジネスロジック
+│   ├── DatabaseService.js    # データベース管理
+│   ├── MessageService.js     # メッセージ選択ロジック
+│   └── NotificationService.js # 通知管理
+├── data/               # データファイル
+│   └── messages.json   # メッセージデータ
+├── assets/             # 画像・音声
+└── utils/              # ユーティリティ
+```
+
+## 🎯 核心機能
+
+### メッセージ配信システム
+- 時間帯別配信（朝・昼・夜・深夜）
+- 曜日別配信（月曜・金曜・週末）
+- 季節別配信（春・夏・秋・冬）
+- 特別日配信（誕生日等）
+
+### 思い出システム
+- 全メッセージ履歴の保存
+- 日時順での表示
+- プルリフレッシュ対応
+
+### 設定システム
+- 通知時間の設定
+- 通知ON/OFF切り替え
+- 即座通知テスト機能
+
+## 🧪 テスト
+
+```bash
+# 単体テストの実行
+npm test
+
+# 依存関係の検証
+npm run lint
+```
+
+## 📄 ライセンス
+
+このプロジェクトは二次創作ファンメイドアプリです。
+カバー株式会社の二次創作ガイドラインに準拠しています。
+
+## 🤝 コントリビューション
+
+このプロジェクトは個人のファン活動です。
+Issue報告やプルリクエストは歓迎いたします。
+
+## 📞 お問い合わせ
+
+プロジェクトに関するお問い合わせは、GitHubのIssueまでお願いいたします。
+
+---
+
+**友人Aと毎日を特別に ♪** 
