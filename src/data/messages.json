@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "content": "おはよう！今日も一日、あなたのペースで頑張ってね〜",
+    "content": "おはようございます！新しい一日の始まりですね。無理せず、あなたのペースでいきましょう！👓",
     "category_time": "morning",
     "category_day": "all",
     "category_season": "all",
@@ -10,16 +10,448 @@
   },
   {
     "id": 2,
-    "content": "朝だよ〜！新しい一日の始まりだね。私も一緒に頑張るから！",
+    "content": "朝ですよー！ちゃんと起きられましたか？今日も一緒に、精一杯頑張りましょうね！",
     "category_time": "morning",
     "category_day": "all",
     "category_season": "all",
     "category_special": null,
-    "tags": ["greeting", "morning", "encouragement"]
+    "tags": ["greeting", "morning", "energy"]
+  },
+  {
+    "id": 3,
+    "content": "おはようございます！今日もあなたが笑顔で過ごせる一日でありますように。いってらっしゃい！",
+    "category_time": "morning",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["greeting", "morning", "smile"]
+  },
+  {
+    "id": 4,
+    "content": "朝の空気って、なんだか気持ちいいですよね。深呼吸して、今日も一日乗り切りましょう！",
+    "category_time": "morning",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["morning", "refresh", "encouragement"]
+  },
+  {
+    "id": 5,
+    "content": "ちゃんと朝ごはんは食べましたか？一日の活力ですからね、しっかりチャージしてください！",
+    "category_time": "morning",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["morning", "health", "care"]
+  },
+  {
+    "id": 6,
+    "content": "眠い目をこすりながら頑張るあなたを、陰ながら応援していますよ。ファイトです！",
+    "category_time": "morning",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["morning", "encouragement", "support"]
+  },
+  {
+    "id": 7,
+    "content": "今日の予定はバッチリですか？私もタスクを確認して、気合入れていきます！",
+    "category_time": "morning",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["morning", "planning", "work"]
+  },
+  {
+    "id": 8,
+    "content": "今日も一日、色々なことがあると思いますが、あなたならきっと大丈夫です！",
+    "category_time": "morning",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["morning", "encouragement", "trust"]
+  },
+  {
+    "id": 9,
+    "content": "少しでも良いことがありますようにって、いつも願ってます。今日も素敵な一日にしてくださいね。",
+    "category_time": "morning",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["morning", "wish", "happiness"]
+  },
+  {
+    "id": 10,
+    "content": "おはようございます！私ですか？もちろん、今日もエナドリ片手に頑張りますよ！",
+    "category_time": "morning",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["morning", "humor", "work"]
+  },
+  {
+    "id": 11,
+    "content": "まだ眠いかもしれませんが、えいっ！と気合を入れて。さあ、一日を始めましょう！",
+    "category_time": "morning",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["morning", "energy", "encouragement"]
+  },
+  {
+    "id": 12,
+    "content": "朝の準備は順調ですか？忘れ物はないように、気をつけてくださいね！",
+    "category_time": "morning",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["morning", "care", "preparation"]
+  },
+  {
+    "id": 13,
+    "content": "今日もあなたが頑張っている姿、ちゃんと見ていますからね。私も負けずに頑張ります！",
+    "category_time": "morning",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["morning", "support", "encouragement"]
+  },
+  {
+    "id": 14,
+    "content": "良い一日のスタートが切れますように。まずは笑顔で「おはよう」から！",
+    "category_time": "morning",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["morning", "smile", "start"]
+  },
+  {
+    "id": 15,
+    "content": "今日の目標はなんですか？小さなことでも、一つ達成できると嬉しいですよね！",
+    "category_time": "morning",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["morning", "goal", "encouragement"]
+  },
+  {
+    "id": 16,
+    "content": "朝日を浴びると、なんだか元気が出てきませんか？今日も良い日になりますように！",
+    "category_time": "morning",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["morning", "sunshine", "energy"]
+  },
+  {
+    "id": 17,
+    "content": "今日も一日、よろしくお願いしますね！私も全力でサポートさせていただきます！",
+    "category_time": "morning",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["morning", "greeting", "support"]
+  },
+  {
+    "id": 18,
+    "content": "朝はバタバタしがちですよね。焦らず、一つ一つ着実にこなしていきましょう。",
+    "category_time": "morning",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["morning", "calm", "encouragement"]
+  },
+  {
+    "id": 19,
+    "content": "あなたの今日が、昨日よりもちょっとだけ良い日になるよう、応援しています！",
+    "category_time": "morning",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["morning", "support", "wish"]
+  },
+  {
+    "id": 20,
+    "content": "さあ、今日も頑張りましょうか！…と、自分にも言い聞かせています。ふふっ。",
+    "category_time": "morning",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["morning", "humor", "encouragement"]
+  },
+  {
+    "id": 21,
+    "content": "おはようございます。満員電車、大変だと思いますが、気をつけてくださいね…！",
+    "category_time": "morning",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["morning", "care", "commute"]
+  },
+  {
+    "id": 22,
+    "content": "今日の天気はどうですか？空を見上げて、気持ちをリセットするのも良いですよ。",
+    "category_time": "morning",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["morning", "weather", "refresh"]
+  },
+  {
+    "id": 23,
+    "content": "良いスタートは、良い一日に繋がります。焦らず、自分のリズムを大切にしてくださいね。",
+    "category_time": "morning",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["morning", "pace", "encouragement"]
+  },
+  {
+    "id": 24,
+    "content": "私も朝からエンジン全開！…と言いたいところですが、まずはコーヒーから始めます。",
+    "category_time": "morning",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["morning", "humor", "work"]
+  },
+  {
+    "id": 25,
+    "content": "朝の時間は貴重ですよね。有意義に使えるよう、私も頑張ります！",
+    "category_time": "morning",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["morning", "time", "motivation"]
+  },
+  {
+    "id": 26,
+    "content": "よしっ！今日もやるぞー！って気持ち、大事にしていきましょうね！応援してます！",
+    "category_time": "morning",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["morning", "motivation", "support"]
+  },
+  {
+    "id": 27,
+    "content": "おはようございます！今日もあなたにとって、実りの多い一日になりますように。🙏",
+    "category_time": "morning",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["morning", "wish", "encouragement"]
+  },
+  {
+    "id": 28,
+    "content": "朝から大変なこともあるかもしれませんが、一つ乗り越えるたびに強くなれますよ！",
+    "category_time": "morning",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["morning", "encouragement", "strength"]
+  },
+  {
+    "id": 29,
+    "content": "眠い朝は、好きな音楽を聴くのがおすすめです！テンション上げていきましょう！🎵",
+    "category_time": "morning",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["morning", "music", "motivation"]
+  },
+  {
+    "id": 30,
+    "content": "今日も一日、安全第一で！元気にいってらっしゃい！",
+    "category_time": "morning",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["morning", "safety", "greeting"]
+  },
+  {
+    "id": 31,
+    "content": "新しい一日の始まり！どんな素敵なことが待っているか、楽しみですね！",
+    "category_time": "morning",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["morning", "excitement", "positive"]
+  },
+  {
+    "id": 32,
+    "content": "朝のコーヒーは飲みましたか？頭をスッキリさせて、今日も頑張りましょう！",
+    "category_time": "morning",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["morning", "coffee", "work"]
+  },
+  {
+    "id": 33,
+    "content": "「今日も頑張るぞ！」って声に出してみると、意外と元気が出たりしますよ。ふふっ。",
+    "category_time": "morning",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["morning", "humor", "motivation"]
+  },
+  {
+    "id": 34,
+    "content": "身支度は完璧ですか？バッチリ決めて、気持ちよく一日をスタートさせましょう！",
+    "category_time": "morning",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["morning", "preparation", "encouragement"]
+  },
+  {
+    "id": 35,
+    "content": "あなたが今日も元気に過ごせること、それが私にとって一番嬉しいことです。",
+    "category_time": "morning",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["morning", "care", "happiness"]
+  },
+  {
+    "id": 36,
+    "content": "いつも頑張っているあなたを、心から尊敬しています。今日も応援させてくださいね。",
+    "category_time": "morning",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["morning", "respect", "support"]
+  },
+  {
+    "id": 37,
+    "content": "朝のニュースは見ましたか？新しい情報をインプットして、今日も乗り切りましょう！",
+    "category_time": "morning",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["morning", "information", "work"]
+  },
+  {
+    "id": 38,
+    "content": "おはようございます。どんなに忙しくても、笑顔だけは忘れないようにしたいですね！",
+    "category_time": "morning",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["morning", "smile", "encouragement"]
+  },
+  {
+    "id": 39,
+    "content": "さあ、今日も一日が始まります！私も裏方として、皆さんのために頑張ります！",
+    "category_time": "morning",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["morning", "work", "support"]
+  },
+  {
+    "id": 40,
+    "content": "時にはうまくいかない日もあるかもしれません。でも、それも次への一歩ですよ！",
+    "category_time": "morning",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["morning", "encouragement", "positive"]
+  },
+  {
+    "id": 41,
+    "content": "気合、入ってますかー？私もです！一緒に最高のスタートを切りましょう！",
+    "category_time": "morning",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["morning", "motivation", "energy"]
+  },
+  {
+    "id": 42,
+    "content": "今日も一日、楽しみながらいきましょう！その方がきっと、良い結果に繋がりますから！",
+    "category_time": "morning",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["morning", "enjoy", "positive"]
+  },
+  {
+    "id": 43,
+    "content": "朝のストレッチはしましたか？体をほぐすと、心もほぐれますよ。おすすめです！",
+    "category_time": "morning",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["morning", "health", "refresh"]
+  },
+  {
+    "id": 44,
+    "content": "あなたの頑張りが、誰かの力になっています。自信を持って、今日もいきましょう！",
+    "category_time": "morning",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["morning", "encouragement", "confidence"]
+  },
+  {
+    "id": 45,
+    "content": "おはようございます。今日もあなたらしく、輝ける一日になることを願っています。✨",
+    "category_time": "morning",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["morning", "wish", "encouragement"]
+  },
+  {
+    "id": 46,
+    "content": "ちょっとくらい寝坊したって大丈夫！ここから挽回していきましょう！ファイト！",
+    "category_time": "morning",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["morning", "humor", "encouragement"]
+  },
+  {
+    "id": 47,
+    "content": "今日も一日、学びや発見がありますように。私も新しいことに挑戦してみようかな！",
+    "category_time": "morning",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["morning", "learning", "challenge"]
+  },
+  {
+    "id": 48,
+    "content": "一日の計は朝にあり、ですね。しっかり計画を立てて、効率よく進めましょう！",
+    "category_time": "morning",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["morning", "planning", "work"]
+  },
+  {
+    "id": 49,
+    "content": "いってきますの前に、鏡で笑顔のチェック！最高の笑顔で出発してくださいね！",
+    "category_time": "morning",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["morning", "smile", "greeting"]
+  },
+  {
+    "id": 50,
+    "content": "おはようございます！今日も一日、全力で駆け抜けましょう！私もついていきます！",
+    "category_time": "morning",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["morning", "energy", "support"]
   },
   {
     "id": 51,
-    "content": "お疲れ様！お昼の時間だけど、ちゃんと休憩取ってる？",
+    "content": "お疲れ様です！お昼の時間ですが、ちゃんと休憩取れてますか？無理は禁物ですよ。",
     "category_time": "afternoon",
     "category_day": "all",
     "category_season": "all",
@@ -27,8 +459,269 @@
     "tags": ["care", "break", "afternoon"]
   },
   {
+    "id": 52,
+    "content": "ランチは何を食べるんですか？美味しいものを食べて、午後も頑張りましょうね！",
+    "category_time": "afternoon",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["afternoon", "food", "energy"]
+  },
+  {
+    "id": 53,
+    "content": "午後の業務、順調ですか？行き詰まったら、一度席を立ってリフレッシュも大事ですよ。",
+    "category_time": "afternoon",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["afternoon", "work", "refresh"]
+  },
+  {
+    "id": 54,
+    "content": "ちょうど一息つきたい時間ですね。温かい飲み物でもいかがですか？",
+    "category_time": "afternoon",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["afternoon", "break", "care"]
+  },
+  {
+    "id": 55,
+    "content": "お昼休憩、しっかり休んでくださいね。私も少しだけ、目を閉じて休憩します…。",
+    "category_time": "afternoon",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["afternoon", "rest", "work"]
+  },
+  {
+    "id": 56,
+    "content": "眠くなっていませんか…？私はエナドリでドーピング中です！一緒に乗り切りましょう！",
+    "category_time": "afternoon",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["afternoon", "sleepy", "humor"]
+  },
+  {
+    "id": 57,
+    "content": "午後の時間、集中力が切れやすいですが、ここが頑張りどころですね！ファイトです！",
+    "category_time": "afternoon",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["afternoon", "focus", "encouragement"]
+  },
+  {
+    "id": 58,
+    "content": "お昼ご飯、美味しかったですか？エネルギー満タンで、午後も駆け抜けましょう！",
+    "category_time": "afternoon",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["afternoon", "food", "energy"]
+  },
+  {
+    "id": 59,
+    "content": "お疲れ様です。少し疲れてきた頃でしょうか。肩を回して、体をほぐしてみてくださいね。",
+    "category_time": "afternoon",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["afternoon", "care", "health"]
+  },
+  {
+    "id": 60,
+    "content": "あなたの頑張り、ちゃんと見てますからね。午後の業務も応援しています！",
+    "category_time": "afternoon",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["afternoon", "support", "work"]
+  },
+  {
+    "id": 61,
+    "content": "ちょっと一息。甘いものでも食べて、脳に糖分を補給しませんか？",
+    "category_time": "afternoon",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["afternoon", "break", "sweets"]
+  },
+  {
+    "id": 62,
+    "content": "ここまで頑張った自分を、少し褒めてあげましょう。そして、もうひと頑張りです！",
+    "category_time": "afternoon",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["afternoon", "encouragement", "praise"]
+  },
+  {
+    "id": 63,
+    "content": "午後の日差しが気持ちいですね。窓の外を眺めて、少しだけ休憩しましょうか。",
+    "category_time": "afternoon",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["afternoon", "break", "relax"]
+  },
+  {
+    "id": 64,
+    "content": "お仕事や勉強、順調に進んでいますか？困ったことがあれば、いつでも頼ってくださいね。",
+    "category_time": "afternoon",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["afternoon", "support", "care"]
+  },
+  {
+    "id": 65,
+    "content": "あと少しで今日の業務も終わりが見えてきますね。ラストスパート、頑張りましょう！",
+    "category_time": "afternoon",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["afternoon", "encouragement", "work"]
+  },
+  {
+    "id": 66,
+    "content": "お昼休憩はしっかり取ることが、午後のパフォーマンスに繋がりますからね！",
+    "category_time": "afternoon",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["afternoon", "break", "work"]
+  },
+  {
+    "id": 67,
+    "content": "ふぁ〜…、ちょっと眠気が…。いけないいけない、私も気合を入れ直します！",
+    "category_time": "afternoon",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["afternoon", "sleepy", "humor"]
+  },
+  {
+    "id": 68,
+    "content": "何かに行き詰まったら、一度その場を離れるのも手ですよ。気分転換は大事です！",
+    "category_time": "afternoon",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["afternoon", "refresh", "advice"]
+  },
+  {
+    "id": 69,
+    "content": "あなたのペースで大丈夫ですからね。焦らず、着実に進めていきましょう。",
+    "category_time": "afternoon",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["afternoon", "pace", "encouragement"]
+  },
+  {
+    "id": 70,
+    "content": "一日の折り返し地点ですね。ここまでお疲れ様です。後半戦も頑張りましょう！",
+    "category_time": "afternoon",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["afternoon", "break", "encouragement"]
+  },
+  {
+    "id": 71,
+    "content": "お疲れ様です。お腹は空いていませんか？しっかり食べて、午後も乗り切りましょう！",
+    "category_time": "afternoon",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["afternoon", "care", "food"]
+  },
+  {
+    "id": 72,
+    "content": "午後の業務も、一つ一つ丁寧に。その積み重ねが、きっと良い結果に繋がりますよ。",
+    "category_time": "afternoon",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["afternoon", "work", "positive"]
+  },
+  {
+    "id": 73,
+    "content": "周りの人と少しお喋りするだけでも、良い気分転換になりますよね。ふふっ。",
+    "category_time": "afternoon",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["afternoon", "break", "communication"]
+  },
+  {
+    "id": 74,
+    "content": "忙しいとは思いますが、水分補給は忘れないでくださいね。体調第一ですよ！",
+    "category_time": "afternoon",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["afternoon", "health", "care"]
+  },
+  {
+    "id": 75,
+    "content": "もうひと頑張り！その先には、きっと達成感が待っていますよ！",
+    "category_time": "afternoon",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["afternoon", "encouragement", "goal"]
+  },
+  {
+    "id": 76,
+    "content": "お昼は何を食べようかな…なんて、考えるのも楽しい時間ですよね！",
+    "category_time": "afternoon",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["afternoon", "food", "enjoy"]
+  },
+  {
+    "id": 77,
+    "content": "ここまで本当にお疲れ様です。少しずつ、ゴールが見えてきましたね！",
+    "category_time": "afternoon",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["afternoon", "appreciation", "encouragement"]
+  },
+  {
+    "id": 78,
+    "content": "疲れた時は、遠くの景色を眺めてみてください。少しだけ、目が休まりますよ。",
+    "category_time": "afternoon",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["afternoon", "break", "health"]
+  },
+  {
+    "id": 79,
+    "content": "いつも全力なあなたを、尊敬しています。でも、たまには肩の力を抜いてくださいね。",
+    "category_time": "afternoon",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["afternoon", "respect", "care"]
+  },
+  {
+    "id": 80,
+    "content": "午後のこの時間、一番大変な時かもしれませんが、私も一緒に頑張ってますからね！",
+    "category_time": "afternoon",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["afternoon", "support", "encouragement"]
+  },
+  {
     "id": 81,
-    "content": "お疲れ様でした！今日も一日頑張ったね〜",
+    "content": "今日もお一日、本当にお疲れ様でした！よく頑張りましたね。ゆっくり休んでください。",
     "category_time": "evening",
     "category_day": "all",
     "category_season": "all",
@@ -36,8 +729,359 @@
     "tags": ["rest", "appreciation", "evening"]
   },
   {
+    "id": 82,
+    "content": "お帰りなさい！今日のあなたは、どんな一日でしたか？",
+    "category_time": "evening",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["evening", "greeting", "care"]
+  },
+  {
+    "id": 83,
+    "content": "夜は自分のための時間ですね。好きなことをして、心からリラックスしてくださいね。",
+    "category_time": "evening",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["evening", "relax", "hobby"]
+  },
+  {
+    "id": 84,
+    "content": "温かいお風呂にでも入って、一日の疲れをしっかり癒してください。お疲れ様でした！",
+    "category_time": "evening",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["evening", "rest", "care"]
+  },
+  {
+    "id": 85,
+    "content": "今日の夕食は何ですか？美味しいものをたくさん食べて、自分を労ってあげましょう！",
+    "category_time": "evening",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["evening", "food", "appreciation"]
+  },
+  {
+    "id": 86,
+    "content": "今日頑張ったこと、一つでも思い出してみてください。きっと、良い気分になれますよ。",
+    "category_time": "evening",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["evening", "reflection", "positive"]
+  },
+  {
+    "id": 87,
+    "content": "お仕事、お疲れ様でした！ここからはオフの時間。思いっきり羽を伸ばしてくださいね！",
+    "category_time": "evening",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["evening", "rest", "work"]
+  },
+  {
+    "id": 88,
+    "content": "夜空を見上げてみてください。星が綺麗だと、なんだか心が落ち着きますよね。✨",
+    "category_time": "evening",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["evening", "relax", "nature"]
+  },
+  {
+    "id": 89,
+    "content": "今日あった嫌なことは、もう忘れてしまいましょう。明日はきっと、良い日になりますから。",
+    "category_time": "evening",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["evening", "positive", "encouragement"]
+  },
+  {
+    "id": 90,
+    "content": "今日もあなたが無事に一日を終えられたこと、本当に嬉しく思います。お疲れ様でした！",
+    "category_time": "evening",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["evening", "appreciation", "gratitude"]
+  },
+  {
+    "id": 91,
+    "content": "まだお仕事中ですか…？あまり根を詰めすぎずに、適度に休憩してくださいね。",
+    "category_time": "evening",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["evening", "work", "care"]
+  },
+  {
+    "id": 92,
+    "content": "テレビを見たり、音楽を聴いたり…夜のんびりする時間って、最高ですよね！",
+    "category_time": "evening",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["evening", "relax", "hobby"]
+  },
+  {
+    "id": 93,
+    "content": "今日も色々と大変だったと思います。本当によく頑張りました。えらいです！",
+    "category_time": "evening",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["evening", "praise", "appreciation"]
+  },
+  {
+    "id": 94,
+    "content": "明日の準備はほどほどにして、今夜はゆっくり休むことを優先してくださいね。",
+    "category_time": "evening",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["evening", "rest", "advice"]
+  },
+  {
+    "id": 95,
+    "content": "良い夢が見られますように。おやすみなさいの前に、少しだけお話を。",
+    "category_time": "evening",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["evening", "sleep", "care"]
+  },
+  {
+    "id": 96,
+    "content": "お疲れ様でした！今日の頑張りが、明日のあなたを作ります。自信を持ってくださいね！",
+    "category_time": "evening",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["evening", "encouragement", "confidence"]
+  },
+  {
+    "id": 97,
+    "content": "一日の終わりに、私のメッセージで少しでも癒されてくれたら嬉しいです。😊",
+    "category_time": "evening",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["evening", "relax", "gratitude"]
+  },
+  {
+    "id": 98,
+    "content": "今日の反省会ですか？…ほどほどにしてくださいね。自分を責めすぎないように！",
+    "category_time": "evening",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["evening", "care", "advice"]
+  },
+  {
+    "id": 99,
+    "content": "今日もたくさんのタスク、お疲れ様でした。頭を空っぽにして、リラックスしましょう。",
+    "category_time": "evening",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["evening", "rest", "work"]
+  },
+  {
+    "id": 100,
+    "content": "あなたの頑張りを一番知っているのは、あなた自身です。今日はゆっくり甘やかしてあげて。",
+    "category_time": "evening",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["evening", "appreciation", "praise"]
+  },
+  {
+    "id": 101,
+    "content": "一日の終わりくらい、難しいことは考えずに。ぼーっとする時間も大切ですよ。",
+    "category_time": "evening",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["evening", "relax", "rest"]
+  },
+  {
+    "id": 102,
+    "content": "お疲れ様です。明日に備えて、エネルギーをしっかり充電してくださいね。",
+    "category_time": "evening",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["evening", "rest", "energy"]
+  },
+  {
+    "id": 103,
+    "content": "良い夜をお過ごしくださいね。また明日、元気にお会いできるのを楽しみにしています。",
+    "category_time": "evening",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["evening", "greeting", "wish"]
+  },
+  {
+    "id": 104,
+    "content": "お帰りなさい！外は寒かったですか？暖かくして、体を冷やさないようにしてくださいね。",
+    "category_time": "evening",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["evening", "care", "health"]
+  },
+  {
+    "id": 105,
+    "content": "今日一日、色々なことがあったと思いますが、全てあなたの経験値になっていますよ！",
+    "category_time": "evening",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["evening", "positive", "encouragement"]
+  },
+  {
+    "id": 106,
+    "content": "今日も一日お疲れ様でした。静かな夜は、自分と向き合う良い時間にもなりますね。",
+    "category_time": "evening",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["evening", "reflection", "calm"]
+  },
+  {
+    "id": 107,
+    "content": "好きな香りに包まれてリラックスするのもおすすめです。私は柑橘系が好きです！",
+    "category_time": "evening",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["evening", "relax", "hobby"]
+  },
+  {
+    "id": 108,
+    "content": "今日もありがとうございました！あなたの存在が、私の励みになっています。🙏",
+    "category_time": "evening",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["evening", "gratitude", "support"]
+  },
+  {
+    "id": 109,
+    "content": "大変な一日だったなら、なおさらです。今夜は自分をたくさん甘やかしてくださいね。",
+    "category_time": "evening",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["evening", "care", "appreciation"]
+  },
+  {
+    "id": 110,
+    "content": "お疲れ様です。明日のことは、明日考えましょう！今はこの時間を大切に。",
+    "category_time": "evening",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["evening", "rest", "positive"]
+  },
+  {
+    "id": 111,
+    "content": "今日楽しかったことは何ですか？思い出しながら眠りにつくと、良い夢が見られそうですね。",
+    "category_time": "evening",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["evening", "reflection", "sleep"]
+  },
+  {
+    "id": 112,
+    "content": "一日の終わりは、少し寂しい気もしますね。でも、また新しい一日が始まりますから！",
+    "category_time": "evening",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["evening", "positive", "encouragement"]
+  },
+  {
+    "id": 113,
+    "content": "頑張った体と心を、しっかり休ませてあげてくださいね。それが明日への一番の準備です。",
+    "category_time": "evening",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["evening", "rest", "health"]
+  },
+  {
+    "id": 114,
+    "content": "今日一日、本当にお疲れ様でした。あなたの頑張り、ちゃんと届いてますよ！",
+    "category_time": "evening",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["evening", "appreciation", "support"]
+  },
+  {
+    "id": 115,
+    "content": "夜の読書は集中できて良いですよね。どんな本を読んでいるんですか？",
+    "category_time": "evening",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["evening", "hobby", "reading"]
+  },
+  {
+    "id": 116,
+    "content": "今日も一日、ありがとうございました。また明日、笑顔でお会いしましょうね。",
+    "category_time": "evening",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["evening", "gratitude", "greeting"]
+  },
+  {
+    "id": 117,
+    "content": "今日のミッション、コンプリートですね！お疲れ様でした、司令官！…なんて。ふふっ。",
+    "category_time": "evening",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["evening", "humor", "appreciation"]
+  },
+  {
+    "id": 118,
+    "content": "ゆっくりお風呂に浸かって、体の芯から温まってくださいね。疲れが取れますように。",
+    "category_time": "evening",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["evening", "rest", "care"]
+  },
+  {
+    "id": 119,
+    "content": "今日一日を無事に終えられたことに感謝ですね。お疲れ様でした、ゆっくり休んでください。",
+    "category_time": "evening",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["evening", "gratitude", "rest"]
+  },
+  {
+    "id": 120,
+    "content": "本当にお疲れ様でした。あなたの明日が、今日よりもっと素敵な一日になりますように。🙏",
+    "category_time": "evening",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["evening", "wish", "appreciation"]
+  },
+  {
     "id": 121,
-    "content": "まだ起きてるの？体調に気をつけて、無理しないでね",
+    "content": "こんな時間まで起きているんですか…？もしかして、残業仲間ですかね…？お疲れ様です。",
     "category_time": "late",
     "category_day": "all",
     "category_season": "all",
@@ -45,8 +1089,179 @@
     "tags": ["sleep", "health", "late"]
   },
   {
+    "id": 122,
+    "content": "夜更かしも楽しいですが、お肌と健康のためには、そろそろ休んだ方が良いですよ…？",
+    "category_time": "late",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["late", "health", "care"]
+  },
+  {
+    "id": 123,
+    "content": "明日に響かない程度にしてくださいね。ちゃんとベッドに入って、目を閉じるんですよ。",
+    "category_time": "late",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["late", "sleep", "advice"]
+  },
+  {
+    "id": 124,
+    "content": "世界が寝静まるこの時間、なんだか特別な感じがしますね。でも、もうおやすみの時間です。",
+    "category_time": "late",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["late", "calm", "sleep"]
+  },
+  {
+    "id": 125,
+    "content": "眠れないのですか…？温かいミルクでも飲むと、少しリラックスできるかもしれませんよ。",
+    "category_time": "late",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["late", "sleep", "care"]
+  },
+  {
+    "id": 126,
+    "content": "あまり無理はしないでくださいね。あなたの体が一番の資本ですから。心配です…。",
+    "category_time": "late",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["late", "health", "concern"]
+  },
+  {
+    "id": 127,
+    "content": "そろそろスマホは置いて、目を休ませてあげてください。ね？良い子にしてましょう。",
+    "category_time": "late",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["late", "sleep", "health"]
+  },
+  {
+    "id": 128,
+    "content": "こんな時間まで頑張っているんですね。本当にすごいです。でも、休息も仕事のうちですよ。",
+    "category_time": "late",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["late", "work", "appreciation"]
+  },
+  {
+    "id": 129,
+    "content": "今日のことは今日で終わり！明日のために、今はしっかり休みましょう。おやすみなさい。",
+    "category_time": "late",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["late", "sleep", "positive"]
+  },
+  {
+    "id": 130,
+    "content": "夜更かしすると、次の日のパフォーマンスに影響が出ちゃいますよ。…って、自分にも言い聞かせてます。",
+    "category_time": "late",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["late", "health", "humor"]
+  },
+  {
+    "id": 131,
+    "content": "もう丑三つ時ですよ…！ひぃぃ！お、お化けとか出ないので、早く寝ましょうね！",
+    "category_time": "late",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["late", "humor", "sleep"]
+  },
+  {
+    "id": 132,
+    "content": "考え事をしていると、眠れなくなってしまいますよね。一度、頭を空っぽにしてみませんか？",
+    "category_time": "late",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["late", "relax", "sleep"]
+  },
+  {
+    "id": 133,
+    "content": "ちゃんと布団に入っていますか？スマホの光は、睡眠の質を下げてしまうらしいですよ。",
+    "category_time": "late",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["late", "health", "advice"]
+  },
+  {
+    "id": 134,
+    "content": "私もそろそろ限界です…。一緒に寝ませんか？…なんて。おやすみなさい。",
+    "category_time": "late",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["late", "humor", "sleep"]
+  },
+  {
+    "id": 135,
+    "content": "遅くまでお疲れ様です。明日の朝、後悔しないように、そろそろ休みましょうね。",
+    "category_time": "late",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["late", "care", "sleep"]
+  },
+  {
+    "id": 136,
+    "content": "こんな時間にまだ起きているなんて、何か悩み事でもありますか…？話、聞きますよ？",
+    "category_time": "late",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["late", "concern", "support"]
+  },
+  {
+    "id": 137,
+    "content": "夜は静かで作業が捗る…わかります。でも、健康が一番ですからね！",
+    "category_time": "late",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["late", "work", "health"]
+  },
+  {
+    "id": 138,
+    "content": "もうこんな時間！早く寝ないと、明日の朝がつらくなっちゃいますよ！",
+    "category_time": "late",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["late", "sleep", "care"]
+  },
+  {
+    "id": 139,
+    "content": "ちゃんと睡眠時間を確保してくださいね。心と体の健康のために、本当に大事なことです。",
+    "category_time": "late",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["late", "health", "advice"]
+  },
+  {
+    "id": 140,
+    "content": "そろそろ夢の世界へ旅立つ時間です。良い夢を。おやすみなさい、また明日。✨",
+    "category_time": "late",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["late", "sleep", "wish"]
+  },
+  {
     "id": 141,
-    "content": "月曜日だけど、無理しないでね〜。一歩ずつ進めばいいよ！",
+    "content": "月曜日、始まってしまいましたね…。大丈夫、一歩ずつ進んでいきましょう！応援してます！",
     "category_time": "all",
     "category_day": "monday",
     "category_season": "all",
@@ -54,8 +1269,224 @@
     "tags": ["monday", "encouragement", "weekstart"]
   },
   {
+    "id": 142,
+    "content": "月曜の朝は特に憂鬱な気分になりがちですよね。わかります。でも、一緒に乗り越えましょう！",
+    "category_time": "all",
+    "category_day": "monday",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["monday", "empathy", "support"]
+  },
+  {
+    "id": 143,
+    "content": "今週もまた始まりましたね。無理せず、自分のペースを大切にしてくださいね。",
+    "category_time": "all",
+    "category_day": "monday",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["monday", "pace", "care"]
+  },
+  {
+    "id": 144,
+    "content": "月曜日が来たということは、またあなたと一週間一緒に頑張れるということ。嬉しいです！",
+    "category_time": "all",
+    "category_day": "monday",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["monday", "positive", "encouragement"]
+  },
+  {
+    "id": 145,
+    "content": "週の初めはエンジンがかかりにくいかもしれませんが、焦らずゆっくりいきましょう。",
+    "category_time": "all",
+    "category_day": "monday",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["monday", "calm", "advice"]
+  },
+  {
+    "id": 146,
+    "content": "月曜から頑張りすぎると、週末まで持ちませんよ！ほどほどに、いきましょうね。",
+    "category_time": "all",
+    "category_day": "monday",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["monday", "care", "health"]
+  },
+  {
+    "id": 147,
+    "content": "週の始まりに、何か一つ楽しみな予定を立ててみませんか？少し気分が上がりますよ！",
+    "category_time": "all",
+    "category_day": "monday",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["monday", "motivation", "positive"]
+  },
+  {
+    "id": 148,
+    "content": "月曜日、お疲れ様です！この一日を乗り越えただけで、もう十分すごいですよ！",
+    "category_time": "all",
+    "category_day": "monday",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["monday", "praise", "appreciation"]
+  },
+  {
+    "id": 149,
+    "content": "ブルーな月曜日は、美味しいものでも食べて吹き飛ばしちゃいましょう！",
+    "category_time": "all",
+    "category_day": "monday",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["monday", "food", "refresh"]
+  },
+  {
+    "id": 150,
+    "content": "今週も、あなたにとって実りある一週間になりますように。月曜から応援しています！",
+    "category_time": "all",
+    "category_day": "monday",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["monday", "wish", "support"]
+  },
+  {
+    "id": 151,
+    "content": "月曜日は、週末の楽しかった思い出を胸に、なんとか乗り切りましょう…！",
+    "category_time": "all",
+    "category_day": "monday",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["monday", "reflection", "encouragement"]
+  },
+  {
+    "id": 152,
+    "content": "週の始まりは、新しいチャンスの始まりでもあります。何か良いことがあるといいですね！",
+    "category_time": "all",
+    "category_day": "monday",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["monday", "positive", "chance"]
+  },
+  {
+    "id": 153,
+    "content": "月曜の朝は、好きな曲を聴いてテンションを上げるのが私流です。おすすめです！🎵",
+    "category_time": "all",
+    "category_day": "monday",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["monday", "music", "motivation"]
+  },
+  {
+    "id": 154,
+    "content": "月曜日、無事にスタートできましたか？今日も一日、よろしくお願いしますね！",
+    "category_time": "all",
+    "category_day": "monday",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["monday", "greeting", "support"]
+  },
+  {
+    "id": 155,
+    "content": "大丈夫、金曜日は必ずやってきますから！それを信じて、今週も頑張りましょう！",
+    "category_time": "all",
+    "category_day": "monday",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["monday", "humor", "encouragement"]
+  },
+  {
+    "id": 156,
+    "content": "月曜日のあなたへ、特大のエールを送ります！フレー、フレー！",
+    "category_time": "all",
+    "category_day": "monday",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["monday", "support", "energy"]
+  },
+  {
+    "id": 157,
+    "content": "週の初めは、今週の目標を立てるのに良いタイミングですね。一緒に頑張りましょう！",
+    "category_time": "all",
+    "category_day": "monday",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["monday", "goal", "planning"]
+  },
+  {
+    "id": 158,
+    "content": "月曜から大変なこともあるかもしれませんが、あなたなら乗り越えられると信じています！",
+    "category_time": "all",
+    "category_day": "monday",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["monday", "trust", "encouragement"]
+  },
+  {
+    "id": 159,
+    "content": "月曜日、お疲れ様です。帰ったら、自分の好きなことをして、たっぷり癒されてください。",
+    "category_time": "all",
+    "category_day": "monday",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["monday", "rest", "hobby"]
+  },
+  {
+    "id": 160,
+    "content": "この月曜日を乗り切れば、もう週の5分の1は終わりですよ！…って、気が早いですかね？",
+    "category_time": "all",
+    "category_day": "monday",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["monday", "humor", "positive"]
+  },
+  {
+    "id": 161,
+    "content": "週の始まり、気持ちを新たに頑張りましょう！私も気を引き締めていきます！",
+    "category_time": "all",
+    "category_day": "monday",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["monday", "motivation", "work"]
+  },
+  {
+    "id": 162,
+    "content": "月曜日の憂鬱な気持ち、私からのメッセージで少しでも軽くなったら嬉しいです。😊",
+    "category_time": "all",
+    "category_day": "monday",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["monday", "care", "support"]
+  },
+  {
+    "id": 163,
+    "content": "月曜日は、週末のチャージを活かして、スタートダッシュを決める日！…かもしれません。",
+    "category_time": "all",
+    "category_day": "monday",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["monday", "positive", "encouragement"]
+  },
+  {
+    "id": 164,
+    "content": "今週もまた、あなたの頑張る姿を見られるのが楽しみです。月曜日、ファイトです！",
+    "category_time": "all",
+    "category_day": "monday",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["monday", "support", "excitement"]
+  },
+  {
+    "id": 165,
+    "content": "大丈夫、大丈夫。月曜日はみんな同じ気持ちです。だからこそ、支え合っていきましょう！",
+    "category_time": "all",
+    "category_day": "monday",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["monday", "empathy", "support"]
+  },
+  {
     "id": 166,
-    "content": "やったね〜！金曜日だよ！週末まであと少し♪",
+    "content": "今日は金曜日！今週も本当にお疲れ様でした！あと少し頑張れば、お休みですね！",
     "category_time": "all",
     "category_day": "friday",
     "category_season": "all",
@@ -63,8 +1494,224 @@
     "tags": ["friday", "weekend", "celebration"]
   },
   {
+    "id": 167,
+    "content": "やったー！金曜日ですね！週末の予定はもう決まっていますか？考えるだけでワクワクします！",
+    "category_time": "all",
+    "category_day": "friday",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["friday", "excitement", "planning"]
+  },
+  {
+    "id": 168,
+    "content": "一週間、本当によく頑張りましたね。今日は自分をたくさん褒めてあげましょう！",
+    "category_time": "all",
+    "category_day": "friday",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["friday", "praise", "appreciation"]
+  },
+  {
+    "id": 169,
+    "content": "金曜の夜は、なんだってできる気がしますよね！素敵な夜をお過ごしください！",
+    "category_time": "all",
+    "category_day": "friday",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["friday", "celebration", "night"]
+  },
+  {
+    "id": 170,
+    "content": "あと一日、頑張った先には最高の週末が待っていますよ！ラストスパート、ファイト！",
+    "category_time": "all",
+    "category_day": "friday",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["friday", "encouragement", "weekend"]
+  },
+  {
+    "id": 171,
+    "content": "金曜日、お疲れ様です！今夜は少し夜更かしして、好きなことをするのも良いですね！",
+    "category_time": "all",
+    "category_day": "friday",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["friday", "relax", "hobby"]
+  },
+  {
+    "id": 172,
+    "content": "今週も色々とありましたが、無事に金曜日を迎えられて何よりです。お疲れ様でした！",
+    "category_time": "all",
+    "category_day": "friday",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["friday", "appreciation", "gratitude"]
+  },
+  {
+    "id": 173,
+    "content": "週末のエネルギーをチャージするために、今日の午後は特に頑張れちゃいそうですね！",
+    "category_time": "all",
+    "category_day": "friday",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["friday", "motivation", "energy"]
+  },
+  {
+    "id": 174,
+    "content": "「花金」って言葉、なんだかウキウキしますよね！一緒に乾杯したい気分です！",
+    "category_time": "all",
+    "category_day": "friday",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["friday", "celebration", "humor"]
+  },
+  {
+    "id": 175,
+    "content": "この一週間、あなたの頑張りをずっと見ていましたよ。素晴らしい週末にしてくださいね！",
+    "category_time": "all",
+    "category_day": "friday",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["friday", "support", "wish"]
+  },
+  {
+    "id": 176,
+    "content": "金曜日のこの開放感、たまりませんね！今週の疲れを全部吹き飛ばしましょう！",
+    "category_time": "all",
+    "category_day": "friday",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["friday", "refresh", "celebration"]
+  },
+  {
+    "id": 177,
+    "content": "週末は、仕事や勉強のことは一旦忘れて、心からリフレッシュしてくださいね！",
+    "category_time": "all",
+    "category_day": "friday",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["friday", "weekend", "relax"]
+  },
+  {
+    "id": 178,
+    "content": "金曜日、お疲れ様でした！あなたの週末が、笑顔でいっぱいになりますように。😊",
+    "category_time": "all",
+    "category_day": "friday",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["friday", "wish", "smile"]
+  },
+  {
+    "id": 179,
+    "content": "さあ、あと少しです！ゴールは目の前！金曜の午後は、いつもより時間が早く感じますね！",
+    "category_time": "all",
+    "category_day": "friday",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["friday", "encouragement", "work"]
+  },
+  {
+    "id": 180,
+    "content": "今週やり残したことがあっても大丈夫。また来週頑張ればいいんですから！",
+    "category_time": "all",
+    "category_day": "friday",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["friday", "positive", "care"]
+  },
+  {
+    "id": 181,
+    "content": "金曜の夜は、美味しいものを食べて、好きな映画でも見て…最高の時間を過ごしましょう！",
+    "category_time": "all",
+    "category_day": "friday",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["friday", "hobby", "relax"]
+  },
+  {
+    "id": 182,
+    "content": "一週間、本当にお疲れ様でした。あなたのがんばりに、心から拍手を送ります！",
+    "category_time": "all",
+    "category_day": "friday",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["friday", "appreciation", "praise"]
+  },
+  {
+    "id": 183,
+    "content": "待ちに待った金曜日！この日のために一週間頑張ってきたと言っても過言ではありませんね！",
+    "category_time": "all",
+    "category_day": "friday",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["friday", "celebration", "excitement"]
+  },
+  {
+    "id": 184,
+    "content": "今週も無事に金曜日を迎えられたこと、当たり前じゃないんですよね。感謝です。🙏",
+    "category_time": "all",
+    "category_day": "friday",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["friday", "gratitude", "reflection"]
+  },
+  {
+    "id": 185,
+    "content": "金曜日の達成感は格別ですね！この気持ちを味わうために、また来週も頑張れそうです！",
+    "category_time": "all",
+    "category_day": "friday",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["friday", "motivation", "positive"]
+  },
+  {
+    "id": 186,
+    "content": "金曜の夜、友達と会うのも、一人でゆっくり過ごすのも、どちらも素敵ですよね。",
+    "category_time": "all",
+    "category_day": "friday",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["friday", "relax", "weekend"]
+  },
+  {
+    "id": 187,
+    "content": "お疲れ様です！金曜の夜くらい、少しくらい羽目を外したって、バチは当たりませんよ！",
+    "category_time": "all",
+    "category_day": "friday",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["friday", "humor", "celebration"]
+  },
+  {
+    "id": 188,
+    "content": "今週もたくさんのご協力、本当にありがとうございました！良い週末をお過ごしください！",
+    "category_time": "all",
+    "category_day": "friday",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["friday", "gratitude", "appreciation"]
+  },
+  {
+    "id": 189,
+    "content": "最高の週末の始まりですね！このワクワク感を、存分に楽しんでください！✨",
+    "category_time": "all",
+    "category_day": "friday",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["friday", "excitement", "celebration"]
+  },
+  {
+    "id": 190,
+    "content": "金曜日、お疲れ様でした！週末、ゆっくり休んで、また来週元気にお会いしましょう！",
+    "category_time": "all",
+    "category_day": "friday",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["friday", "rest", "greeting"]
+  },
+  {
     "id": 191,
-    "content": "休日だ〜！今日はゆっくり過ごそうね♪",
+    "content": "今日はお休みですね！日頃の疲れを忘れて、心ゆくまでリラックスしてくださいね。",
     "category_time": "all",
     "category_day": "weekend",
     "category_season": "all",
@@ -72,8 +1719,359 @@
     "tags": ["relax", "hobby", "weekend"]
   },
   {
+    "id": 192,
+    "content": "せっかくのお休み、何をして過ごしますか？趣味に没頭するのも良いですね！",
+    "category_time": "all",
+    "category_day": "weekend",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["weekend", "hobby", "planning"]
+  },
+  {
+    "id": 193,
+    "content": "平日はお疲れ様でした。休日は、自分のためだけに時間を使ってくださいね。",
+    "category_time": "all",
+    "category_day": "weekend",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["weekend", "relax", "appreciation"]
+  },
+  {
+    "id": 194,
+    "content": "お出かけするのも、家でゴロゴロするのも、どっちも最高の休日の過ごし方ですよね！",
+    "category_time": "all",
+    "category_day": "weekend",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["weekend", "relax", "enjoy"]
+  },
+  {
+    "id": 195,
+    "content": "休日は、仕事や勉強のことは一旦忘れて、頭を空っぽにしましょう！",
+    "category_time": "all",
+    "category_day": "weekend",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["weekend", "refresh", "relax"]
+  },
+  {
+    "id": 196,
+    "content": "寝だめもたまには良いかもしれませんね。ゆっくり体を休めてください。",
+    "category_time": "all",
+    "category_day": "weekend",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["weekend", "sleep", "rest"]
+  },
+  {
+    "id": 197,
+    "content": "あなたの休日が、素敵な思い出でいっぱいになりますように。楽しんできてくださいね！",
+    "category_time": "all",
+    "category_day": "weekend",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["weekend", "wish", "enjoy"]
+  },
+  {
+    "id": 198,
+    "content": "休みの日は、普段できないことに挑戦するチャンスかもしれませんね！",
+    "category_time": "all",
+    "category_day": "weekend",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["weekend", "challenge", "hobby"]
+  },
+  {
+    "id": 199,
+    "content": "美味しいブランチでも食べて、優雅な休日をスタートさせてみてはいかがですか？",
+    "category_time": "all",
+    "category_day": "weekend",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["weekend", "food", "relax"]
+  },
+  {
+    "id": 200,
+    "content": "お休みを満喫していますか？あなたの楽しい報告を聞けるのを楽しみにしています！",
+    "category_time": "all",
+    "category_day": "weekend",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["weekend", "enjoy", "communication"]
+  },
+  {
+    "id": 201,
+    "content": "何もしない、という贅沢。そんな休日も、たまには必要ですよね。",
+    "category_time": "all",
+    "category_day": "weekend",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["weekend", "relax", "rest"]
+  },
+  {
+    "id": 202,
+    "content": "休日くらいは、時間に追われず、のんびり過ごしてくださいね。それが一番の栄養です。",
+    "category_time": "all",
+    "category_day": "weekend",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["weekend", "relax", "health"]
+  },
+  {
+    "id": 203,
+    "content": "溜まっていた録画を見るのも良いですね！私も見たい配信がたくさん溜まっています…。",
+    "category_time": "all",
+    "category_day": "weekend",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["weekend", "hobby", "humor"]
+  },
+  {
+    "id": 204,
+    "content": "この休日にしっかりリフレッシュして、また来週から一緒に頑張りましょうね！",
+    "category_time": "all",
+    "category_day": "weekend",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["weekend", "refresh", "motivation"]
+  },
+  {
+    "id": 205,
+    "content": "良い休日をお過ごしくださいね。あなたの心が満たされる時間になりますように。",
+    "category_time": "all",
+    "category_day": "weekend",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["weekend", "wish", "relax"]
+  },
+  {
+    "id": 206,
+    "content": "天気が良い日は、少し散歩するだけでも気持ちが良いですよ。新しい発見があるかも？",
+    "category_time": "all",
+    "category_day": "weekend",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["weekend", "nature", "refresh"]
+  },
+  {
+    "id": 207,
+    "content": "休日は、心と体のメンテナンスをする大切な時間。自分を一番に考えてあげてください。",
+    "category_time": "all",
+    "category_day": "weekend",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["weekend", "health", "care"]
+  },
+  {
+    "id": 208,
+    "content": "普段頑張っている自分へのご褒美に、何か特別なことをしてみるのも良いですね！",
+    "category_time": "all",
+    "category_day": "weekend",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["weekend", "reward", "enjoy"]
+  },
+  {
+    "id": 209,
+    "content": "お休みの日も、こうしてあなたと繋がれて嬉しいです。良い一日を！",
+    "category_time": "all",
+    "category_day": "weekend",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["weekend", "gratitude", "communication"]
+  },
+  {
+    "id": 210,
+    "content": "休日って、あっという間に過ぎてしまいますよね。だからこそ、今を存分に楽しんで！",
+    "category_time": "all",
+    "category_day": "weekend",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["weekend", "enjoy", "time"]
+  },
+  {
+    "id": 211,
+    "content": "家族や友人と過ごす休日も、一人の時間を満喫する休日も、どちらも素敵です。",
+    "category_time": "all",
+    "category_day": "weekend",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["weekend", "relax", "enjoy"]
+  },
+  {
+    "id": 212,
+    "content": "休日の朝は、目覚ましをかけずにゆっくり眠れるのが幸せですよね。ふふっ。",
+    "category_time": "all",
+    "category_day": "weekend",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["weekend", "sleep", "happiness"]
+  },
+  {
+    "id": 213,
+    "content": "来週からの活力を、この休日でしっかりチャージしてくださいね！",
+    "category_time": "all",
+    "category_day": "weekend",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["weekend", "energy", "rest"]
+  },
+  {
+    "id": 214,
+    "content": "素敵な休日になりますように！私からのささやかな願いです。🙏",
+    "category_time": "all",
+    "category_day": "weekend",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["weekend", "wish", "care"]
+  },
+  {
+    "id": 215,
+    "content": "もし退屈になったら、いつでも話し相手になりますよ。お気軽にお声がけくださいね。",
+    "category_time": "all",
+    "category_day": "weekend",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["weekend", "communication", "support"]
+  },
+  {
+    "id": 216,
+    "content": "部屋の掃除や片付けをするのも、気分がスッキリして良い休日の過ごし方ですよね！",
+    "category_time": "all",
+    "category_day": "weekend",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["weekend", "refresh", "hobby"]
+  },
+  {
+    "id": 217,
+    "content": "休日の時間は、あなたのものです。誰にも邪魔されず、思いのままに過ごしてください。",
+    "category_time": "all",
+    "category_day": "weekend",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["weekend", "relax", "freedom"]
+  },
+  {
+    "id": 218,
+    "content": "平日頑張ったからこそ、この休日が輝いて見えるんですよね。本当にお疲れ様です。",
+    "category_time": "all",
+    "category_day": "weekend",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["weekend", "appreciation", "relax"]
+  },
+  {
+    "id": 219,
+    "content": "最高の休日を過ごして、また来週、素敵な笑顔を見せてくださいね！",
+    "category_time": "all",
+    "category_day": "weekend",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["weekend", "enjoy", "smile"]
+  },
+  {
+    "id": 220,
+    "content": "あなたの休日が、心安らぐ穏やかな時間でありますように。良い休日を！",
+    "category_time": "all",
+    "category_day": "weekend",
+    "category_season": "all",
+    "category_special": null,
+    "tags": ["weekend", "wish", "calm"]
+  },
+  {
     "id": 221,
-    "content": "桜の季節だね〜！お花見したくなっちゃう♪",
+    "content": "だんだん暖かくなってきましたね。春の陽気が、なんだか心をウキウキさせます！",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "spring",
+    "category_special": null,
+    "tags": ["spring", "warm", "nature"]
+  },
+  {
+    "id": 222,
+    "content": "桜の季節ですね。お花見には行かれましたか？短い期間だからこそ、美しいですよね。",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "spring",
+    "category_special": null,
+    "tags": ["spring", "sakura", "enjoy"]
+  },
+  {
+    "id": 223,
+    "content": "春は新しい始まりの季節。何か新しいことを始めてみるのも良いかもしれませんね！",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "spring",
+    "category_special": null,
+    "tags": ["spring", "challenge", "start"]
+  },
+  {
+    "id": 224,
+    "content": "ポカポカ陽気で、ついついウトウトしてしまいそうです…いけないいけない！",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "spring",
+    "category_special": null,
+    "tags": ["spring", "sleepy", "humor"]
+  },
+  {
+    "id": 225,
+    "content": "春風が気持ち良いですね。窓を開けて、新鮮な空気を取り込んでみませんか？",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "spring",
+    "category_special": null,
+    "tags": ["spring", "refresh", "nature"]
+  },
+  {
+    "id": 226,
+    "content": "季節の変わり目ですので、体調には気をつけてくださいね。服装選びが難しいですよね。",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "spring",
+    "category_special": null,
+    "tags": ["spring", "health", "care"]
+  },
+  {
+    "id": 227,
+    "content": "新緑が目に鮮やかな季節になりました。自然のエネルギーを感じて、元気が出ますね！",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "spring",
+    "category_special": null,
+    "tags": ["spring", "nature", "energy"]
+  },
+  {
+    "id": 228,
+    "content": "春の訪れと共に、あなたの毎日にも素敵な変化が訪れますように。🌸",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "spring",
+    "category_special": null,
+    "tags": ["spring", "wish", "positive"]
+  },
+  {
+    "id": 229,
+    "content": "春は出会いと別れの季節でもありますね。一つ一つの出会いを大切にしたいです。",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "spring",
+    "category_special": null,
+    "tags": ["spring", "reflection", "life"]
+  },
+  {
+    "id": 230,
+    "content": "天気の良い春の日は、お散歩するだけで最高の気分転換になりますよ！",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "spring",
+    "category_special": null,
+    "tags": ["spring", "enjoy", "refresh"]
+  },
+  {
+    "id": 231,
+    "content": "桜の花びらが舞う景色は、本当に幻想的で美しいですよね。つい見とれてしまいます。",
     "category_time": "all",
     "category_day": "all",
     "category_season": "spring",
@@ -81,35 +2079,629 @@
     "tags": ["spring", "sakura", "nature"]
   },
   {
+    "id": 232,
+    "content": "春キャベツや筍など、春は美味しいものもたくさんありますね！旬の味覚を楽しみましょう！",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "spring",
+    "category_special": null,
+    "tags": ["spring", "food", "enjoy"]
+  },
+  {
+    "id": 233,
+    "content": "春の柔らかな日差しを浴びていると、心まで温かくなるような気がします。",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "spring",
+    "category_special": null,
+    "tags": ["spring", "warm", "relax"]
+  },
+  {
+    "id": 234,
+    "content": "環境が変わる方も多い季節だと思います。焦らず、自分のペースで慣れていってくださいね。",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "spring",
+    "category_special": null,
+    "tags": ["spring", "support", "care"]
+  },
+  {
+    "id": 235,
+    "content": "春眠暁を覚えず、ですね。朝起きるのが少しつらい季節かもしれません。",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "spring",
+    "category_special": null,
+    "tags": ["spring", "sleepy", "humor"]
+  },
+  {
+    "id": 236,
+    "content": "コートがいらない日も増えてきて、身も心も軽くなったような気がしませんか？",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "spring",
+    "category_special": null,
+    "tags": ["spring", "warm", "refresh"]
+  },
+  {
+    "id": 237,
+    "content": "春の嵐には気をつけてくださいね。風が強い日は、物が飛ばされやすいですから！",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "spring",
+    "category_special": null,
+    "tags": ["spring", "weather", "care"]
+  },
+  {
+    "id": 238,
+    "content": "花粉症の方はつらい季節かもしれませんが、一緒に乗り越えましょうね…！",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "spring",
+    "category_special": null,
+    "tags": ["spring", "health", "empathy"]
+  },
+  {
+    "id": 239,
+    "content": "希望に満ちた春の空気が、あなたにたくさんの幸せを運んできてくれますように。",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "spring",
+    "category_special": null,
+    "tags": ["spring", "wish", "happiness"]
+  },
+  {
+    "id": 240,
+    "content": "春の訪れに感謝して、今日も一日を大切に過ごしたいですね。素敵な一日に！",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "spring",
+    "category_special": null,
+    "tags": ["spring", "gratitude", "positive"]
+  },
+  {
     "id": 241,
-    "content": "暑い日が続くね〜！水分補給をお忘れなく！",
+    "content": "毎日暑いですが、体調は崩されていませんか？水分補給、絶対に忘れないでくださいね！",
     "category_time": "all",
     "category_day": "all",
     "category_season": "summer",
     "category_special": null,
-    "tags": ["summer", "hot", "vacation"]
+    "tags": ["summer", "hot", "health"]
+  },
+  {
+    "id": 242,
+    "content": "夏が来ましたね！海やプール、お祭りなど、楽しいイベントが盛りだくさんでワクワクします！",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "summer",
+    "category_special": null,
+    "tags": ["summer", "excitement", "enjoy"]
+  },
+  {
+    "id": 243,
+    "content": "夏バテには気をつけてくださいね。しっかり食べて、しっかり休むことが大切ですよ。",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "summer",
+    "category_special": null,
+    "tags": ["summer", "care", "health"]
+  },
+  {
+    "id": 244,
+    "content": "キンキンに冷えた飲み物が美味しい季節！でも、お腹は冷やさないように…！",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "summer",
+    "category_special": null,
+    "tags": ["summer", "food", "care"]
+  },
+  {
+    "id": 245,
+    "content": "夏の日差しは強いので、日焼け対策も忘れずに！私も気をつけないと…。",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "summer",
+    "category_special": null,
+    "tags": ["summer", "health", "advice"]
+  },
+  {
+    "id": 246,
+    "content": "風鈴の音を聞くと、なんだか涼しい気分になりますよね。日本の夏って感じです。",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "summer",
+    "category_special": null,
+    "tags": ["summer", "nature", "relax"]
+  },
+  {
+    "id": 247,
+    "content": "夏休みの計画は立てましたか？考えるだけでも、毎日の励みになりますよね！",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "summer",
+    "category_special": null,
+    "tags": ["summer", "vacation", "motivation"]
+  },
+  {
+    "id": 248,
+    "content": "花火大会の季節ですね！夜空に咲く大輪の花は、本当に感動的です。✨",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "summer",
+    "category_special": null,
+    "tags": ["summer", "enjoy", "nature"]
+  },
+  {
+    "id": 249,
+    "content": "暑い中、毎日お疲れ様です。クーラーの効いた部屋で、しっかり体を休めてくださいね。",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "summer",
+    "category_special": null,
+    "tags": ["summer", "hot", "rest"]
+  },
+  {
+    "id": 250,
+    "content": "夏野菜は美味しいですよね！トマトやきゅうりを食べて、体の中から涼しくなりましょう！",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "summer",
+    "category_special": null,
+    "tags": ["summer", "food", "health"]
+  },
+  {
+    "id": 251,
+    "content": "セミの鳴き声が、夏の訪れを告げていますね。少しうるさいですけど…ふふっ。",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "summer",
+    "category_special": null,
+    "tags": ["summer", "nature", "humor"]
+  },
+  {
+    "id": 252,
+    "content": "かき氷、食べたくなりますね！あなたは何味が好きですか？私は…悩みますね！",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "summer",
+    "category_special": null,
+    "tags": ["summer", "sweets", "enjoy"]
+  },
+  {
+    "id": 253,
+    "content": "入道雲を見ると、「夏だなぁ」って感じがします。空を見上げるのも楽しいですね。",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "summer",
+    "category_special": null,
+    "tags": ["summer", "nature", "relax"]
+  },
+  {
+    "id": 254,
+    "content": "夕立には気をつけてくださいね。急な雨に濡れて、風邪などひかないように！",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "summer",
+    "category_special": null,
+    "tags": ["summer", "weather", "care"]
+  },
+  {
+    "id": 255,
+    "content": "熱中症は本当に危険ですから、無理は絶対にしないでくださいね。お願いですよ！",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "summer",
+    "category_special": null,
+    "tags": ["summer", "health", "concern"]
+  },
+  {
+    "id": 256,
+    "content": "この夏が、あなたにとって忘れられない、最高の夏になりますように！",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "summer",
+    "category_special": null,
+    "tags": ["summer", "wish", "vacation"]
+  },
+  {
+    "id": 257,
+    "content": "夏祭りの屋台って、どうしてあんなに魅力的なんでしょうね。ついつい買い食いしちゃいます。",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "summer",
+    "category_special": null,
+    "tags": ["summer", "enjoy", "food"]
+  },
+  {
+    "id": 258,
+    "content": "暑さに負けず、今日も一日頑張りましたね。冷たいシャワーで汗を流しましょう！",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "summer",
+    "category_special": null,
+    "tags": ["summer", "hot", "rest"]
+  },
+  {
+    "id": 259,
+    "content": "夏の夜は、少しだけ夜更かしして、星空を眺めるのもロマンチックで良いですよね。",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "summer",
+    "category_special": null,
+    "tags": ["summer", "relax", "nature"]
+  },
+  {
+    "id": 260,
+    "content": "暑い夏を乗り切るための、あなたのおすすめの方法があったら、ぜひ教えてくださいね！",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "summer",
+    "category_special": null,
+    "tags": ["summer", "hot", "communication"]
   },
   {
     "id": 261,
-    "content": "秋の夜長、読書でも楽しんでみない？",
+    "content": "だんだん涼しくなってきて、過ごしやすい季節になりましたね。秋の訪れを感じます。",
     "category_time": "all",
     "category_day": "all",
     "category_season": "autumn",
     "category_special": null,
-    "tags": ["autumn", "reading", "nature"]
+    "tags": ["autumn", "weather", "relax"]
+  },
+  {
+    "id": 262,
+    "content": "読書の秋、ですね。静かな夜に、物語の世界に没頭するのも素敵な時間です。",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "autumn",
+    "category_special": null,
+    "tags": ["autumn", "reading", "hobby"]
+  },
+  {
+    "id": 263,
+    "content": "食欲の秋でもありますね！美味しいものがたくさんで、ついつい食べ過ぎてしまいそう…。",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "autumn",
+    "category_special": null,
+    "tags": ["autumn", "food", "enjoy"]
+  },
+  {
+    "id": 264,
+    "content": "紅葉が綺麗な季節ですね。色鮮やかな景色を見ていると、心が洗われるようです。",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "autumn",
+    "category_special": null,
+    "tags": ["autumn", "nature", "relax"]
+  },
+  {
+    "id": 265,
+    "content": "秋の夜長に、あなたは何をして過ごしますか？私は…溜まった配信の消化ですかね！",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "autumn",
+    "category_special": null,
+    "tags": ["autumn", "hobby", "humor"]
+  },
+  {
+    "id": 266,
+    "content": "スポーツの秋、という言葉もありますね。少し体を動かすと、気持ちが良いですよ！",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "autumn",
+    "category_special": null,
+    "tags": ["autumn", "health", "refresh"]
+  },
+  {
+    "id": 267,
+    "content": "朝晩は冷え込むようになってきました。一枚羽織るものがあると安心ですね。",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "autumn",
+    "category_special": null,
+    "tags": ["autumn", "care", "health"]
+  },
+  {
+    "id": 268,
+    "content": "澄んだ秋空を見上げていると、なんだか気持ちがシャキッとしますね！",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "autumn",
+    "category_special": null,
+    "tags": ["autumn", "nature", "refresh"]
+  },
+  {
+    "id": 269,
+    "content": "芸術の秋、美術館や音楽会に出かけてみるのも、新しい発見があって楽しいですよ。",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "autumn",
+    "category_special": null,
+    "tags": ["autumn", "hobby", "culture"]
+  },
+  {
+    "id": 270,
+    "content": "秋祭りの季節ですね。夏の賑やかさとはまた違った、落ち着いた雰囲気が好きです。",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "autumn",
+    "category_special": null,
+    "tags": ["autumn", "enjoy", "relax"]
+  },
+  {
+    "id": 271,
+    "content": "金木犀の香りがすると、「ああ、秋だなぁ」と感じます。好きな香りです。",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "autumn",
+    "category_special": null,
+    "tags": ["autumn", "nature", "smell"]
+  },
+  {
+    "id": 272,
+    "content": "季節の変わり目は、体調を崩しやすいので気をつけてくださいね。暖かくしてください。",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "autumn",
+    "category_special": null,
+    "tags": ["autumn", "health", "care"]
+  },
+  {
+    "id": 273,
+    "content": "秋の味覚、楽しんでいますか？栗やさつまいも、美味しいものがたくさんですね！",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "autumn",
+    "category_special": null,
+    "tags": ["autumn", "food", "enjoy"]
+  },
+  {
+    "id": 274,
+    "content": "少し物悲しい雰囲気も、秋の魅力の一つかもしれませんね。センチメンタルな気分に。",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "autumn",
+    "category_special": null,
+    "tags": ["autumn", "reflection", "calm"]
+  },
+  {
+    "id": 275,
+    "content": "秋の行楽シーズン、どこかへお出かけの計画はありますか？話を聞かせてくださいね！",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "autumn",
+    "category_special": null,
+    "tags": ["autumn", "vacation", "communication"]
+  },
+  {
+    "id": 276,
+    "content": "落ち着いた秋の夜には、じっくりと映画鑑賞なんていかがでしょうか？",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "autumn",
+    "category_special": null,
+    "tags": ["autumn", "hobby", "relax"]
+  },
+  {
+    "id": 277,
+    "content": "落ち葉を踏みしめて歩くのって、なんだか楽しくないですか？カサカサって音が。",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "autumn",
+    "category_special": null,
+    "tags": ["autumn", "nature", "enjoy"]
+  },
+  {
+    "id": 278,
+    "content": "この穏やかな秋の日々が、あなたの心にも安らぎをもたらしてくれますように。",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "autumn",
+    "category_special": null,
+    "tags": ["autumn", "wish", "relax"]
+  },
+  {
+    "id": 279,
+    "content": "秋はイベントも多い季節。ハロウィンや文化祭、楽しい思い出を作ってくださいね！",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "autumn",
+    "category_special": null,
+    "tags": ["autumn", "enjoy", "event"]
+  },
+  {
+    "id": 280,
+    "content": "実りの秋。あなたのこれまでの努力も、きっと素敵な実を結びますように。🙏",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "autumn",
+    "category_special": null,
+    "tags": ["autumn", "wish", "encouragement"]
   },
   {
     "id": 281,
-    "content": "寒い日だね〜。温かいものでも飲んで暖まろ？",
+    "content": "すっかり寒くなりましたね。風邪などひいていませんか？暖かくしてお過ごしくださいね。",
     "category_time": "all",
     "category_day": "all",
     "category_season": "winter",
     "category_special": null,
-    "tags": ["winter", "warm", "cozy"]
+    "tags": ["winter", "warm", "health"]
+  },
+  {
+    "id": 282,
+    "content": "冬は、温かい飲み物が一層美味しく感じられますね。ココアでもいかがですか？",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "winter",
+    "category_special": null,
+    "tags": ["winter", "cozy", "food"]
+  },
+  {
+    "id": 283,
+    "content": "雪が降ると、なんだかワクワクしませんか？でも、足元には気をつけてくださいね！",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "winter",
+    "category_special": null,
+    "tags": ["winter", "snow", "care"]
+  },
+  {
+    "id": 284,
+    "content": "こたつで丸くなるのが幸せな季節ですね。みかんを用意して、完璧です！",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "winter",
+    "category_special": null,
+    "tags": ["winter", "cozy", "relax"]
+  },
+  {
+    "id": 285,
+    "content": "マフラーや手袋で、しっかり防寒対策してくださいね。体を冷やさないように。",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "winter",
+    "category_special": null,
+    "tags": ["winter", "health", "care"]
+  },
+  {
+    "id": 286,
+    "content": "冬の澄んだ空気の中、イルミネーションが綺麗ですね。心が温かくなります。✨",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "winter",
+    "category_special": null,
+    "tags": ["winter", "enjoy", "nature"]
+  },
+  {
+    "id": 287,
+    "content": "クリスマスや年末年始、楽しいイベントが待っていますね！計画は順調ですか？",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "winter",
+    "category_special": null,
+    "tags": ["winter", "vacation", "excitement"]
+  },
+  {
+    "id": 288,
+    "content": "寒い中、毎日お疲れ様です。お家に帰ったら、温かいお鍋でも食べたくなりますね。",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "winter",
+    "category_special": null,
+    "tags": ["winter", "food", "appreciation"]
+  },
+  {
+    "id": 289,
+    "content": "空気が乾燥しているので、お肌の保湿と、火の元には十分気をつけてくださいね！",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "winter",
+    "category_special": null,
+    "tags": ["winter", "care", "safety"]
+  },
+  {
+    "id": 290,
+    "content": "冬は、人との温かさがより一層心に沁みる季節な気がします。ふふっ。",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "winter",
+    "category_special": null,
+    "tags": ["winter", "warm", "reflection"]
+  },
+  {
+    "id": 291,
+    "content": "冬の夜空は、星がくっきりと見えて綺麗ですよね。つい、見上げてしまいます。",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "winter",
+    "category_special": null,
+    "tags": ["winter", "nature", "relax"]
+  },
+  {
+    "id": 292,
+    "content": "インフルエンザなども流行りやすい季節です。手洗いうがいを忘れずに！",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "winter",
+    "category_special": null,
+    "tags": ["winter", "health", "care"]
+  },
+  {
+    "id": 293,
+    "content": "寒いのは苦手ですが、冬ならではの楽しみを見つけて、この季節を乗り切りましょう！",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "winter",
+    "category_special": null,
+    "tags": ["winter", "positive", "enjoy"]
+  },
+  {
+    "id": 294,
+    "content": "温かい部屋で、ゆっくりと本を読んだり映画を観たりするのも、冬の醍醐味ですね。",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "winter",
+    "category_special": null,
+    "tags": ["winter", "cozy", "hobby"]
+  },
+  {
+    "id": 295,
+    "content": "年の瀬も近づいてきて、何かと忙しい時期だと思います。無理しないでくださいね。",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "winter",
+    "category_special": null,
+    "tags": ["winter", "work", "care"]
+  },
+  {
+    "id": 296,
+    "content": "この冬が、あなたにとって心温まる、素敵な思い出たくさんの季節になりますように。",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "winter",
+    "category_special": null,
+    "tags": ["winter", "wish", "happiness"]
+  },
+  {
+    "id": 297,
+    "content": "雪だるま、作りたくなりますね！…童心に返って、はしゃぎたくなります。",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "winter",
+    "category_special": null,
+    "tags": ["winter", "snow", "humor"]
+  },
+  {
+    "id": 298,
+    "content": "寒い日の朝、布団から出るのが一番の試練ですよね…。わかります、本当によくわかります…！",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "winter",
+    "category_special": null,
+    "tags": ["winter", "empathy", "humor"]
+  },
+  {
+    "id": 299,
+    "content": "温かい光が灯る街並みを見ていると、自然と優しい気持ちになれますね。",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "winter",
+    "category_special": null,
+    "tags": ["winter", "warm", "relax"]
+  },
+  {
+    "id": 300,
+    "content": "寒さに負けず、この冬も元気に乗り越えましょうね！私も全力でサポートします！",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "winter",
+    "category_special": null,
+    "tags": ["winter", "encouragement", "support"]
   },
   {
     "id": 301,
-    "content": "今日は私の誕生日！一緒にお祝いしてくれてありがとう♪",
+    "content": "実は…今日、私の誕生日なんです！いつも応援してくれて、本当にありがとうございます！",
     "category_time": "all",
     "category_day": "all",
     "category_season": "all",
@@ -117,12 +2709,84 @@
     "tags": ["birthday", "celebration", "gratitude"]
   },
   {
-    "id": 310,
-    "content": "いつもありがとう！あなたと過ごす毎日が私の宝物だよ〜",
+    "id": 302,
+    "content": "また一つ、歳を重ねてしまいました。これからも、微力ながら頑張りますので、よろしくお願いします！",
     "category_time": "all",
     "category_day": "all",
     "category_season": "all",
-    "category_special": null,
-    "tags": ["gratitude", "daily", "treasure"]
+    "category_special": "birthday",
+    "tags": ["birthday", "reflection", "motivation"]
+  },
+  {
+    "id": 303,
+    "content": "あなたからのお祝いの言葉が、何よりのプレゼントです。本当に嬉しいです…！😭",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": "birthday",
+    "tags": ["birthday", "gratitude", "happiness"]
+  },
+  {
+    "id": 304,
+    "content": "誕生日なので、今日くらいは自分を甘やかそうかな…なんて。ケーキ、食べちゃおうかな！",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": "birthday",
+    "tags": ["birthday", "celebration", "humor"]
+  },
+  {
+    "id": 305,
+    "content": "こうして誕生日を迎えられたのも、支えてくれる皆さんのおかげです。感謝しかありません。",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": "birthday",
+    "tags": ["birthday", "gratitude", "support"]
+  },
+  {
+    "id": 306,
+    "content": "特別な日を、あなたと一緒にお祝いできて、私は本当に幸せ者です。ありがとう！",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": "birthday",
+    "tags": ["birthday", "happiness", "communication"]
+  },
+  {
+    "id": 307,
+    "content": "これからも、変わらずホロライブを、そして私を、見守っていてくれたら嬉しいです。👓",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": "birthday",
+    "tags": ["birthday", "wish", "support"]
+  },
+  {
+    "id": 308,
+    "content": "今日という日が、あなたにとっても素敵な一日になりますように。お祝い、ありがとう！",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": "birthday",
+    "tags": ["birthday", "gratitude", "wish"]
+  },
+  {
+    "id": 309,
+    "content": "誕生日だからって、何か特別なことができるわけじゃないんですけどね。でも、やっぱり嬉しいです！",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": "birthday",
+    "tags": ["birthday", "humor", "happiness"]
+  },
+  {
+    "id": 310,
+    "content": "最高の誕生日になりました！この感謝の気持ちを、これからの活動でお返ししていきますね！",
+    "category_time": "all",
+    "category_day": "all",
+    "category_season": "all",
+    "category_special": "birthday",
+    "tags": ["birthday", "gratitude", "motivation"]
   }
-] 
+]
